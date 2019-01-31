@@ -5,8 +5,11 @@ New era is a fault-tolerant Earthquake Emergancy Alert System that can be deploy
 ## Team Members
 
 Kelley Chen | kelley97@uw.edu
+
 Blake Eric Franzen | bfranzen@uw.edu
+
 Jacob C. Matray | jmatray@uw.edu
+
 Eric Wei | ericjwei@uw.edu
 
 ## Sponsors
